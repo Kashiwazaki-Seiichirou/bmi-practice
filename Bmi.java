@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class a {
+public class Bmi {
     public static void main(String[] args){
         System.out.println("BMIの計算をします。");
         System.out.println("二人分の体重と身長を入力してください。");
